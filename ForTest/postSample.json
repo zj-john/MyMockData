@@ -1,0 +1,12 @@
+{
+  "RequestMethod":["POST"],
+  "ResponseHeaders":{},
+  "StatusCode:": "200",
+  "Response": {
+    "success": true,
+    "message": "",
+    "data": "this is a get mock data"
+  },
+  "ResponseTime": 0,
+  "AllowPostDataKey":["id","name"]
+}
