@@ -1,11 +1,12 @@
 {
   "RequestMethod":["GET"],
   "ResponseHeaders":{},
-  "StatusCode:": "200",
+  "StatusCode:": "500",
+  "StatusText": "Internal Server Error"
   "Response": {
     "success": true,
     "message": "",
     "data": "this is a get mock data"
   },
-  "ResponseTime": 0
+  "ResponseTime": 5000
 }
