@@ -1,0 +1,11 @@
+{
+  "RequestMethod":["GET"],
+  "ResponseHeaders":{},
+  "StatusCode": "500",
+  "Response": {
+    "success": true,
+    "message": "",
+    "data": "This is a error mock data"
+  },
+  "ResponseTime": 5000
+}
