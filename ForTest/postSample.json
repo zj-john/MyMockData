@@ -5,7 +5,7 @@
   "Response": {
     "success": true,
     "message": "",
-    "data": "this is a get mock data"
+    "data": "This is a post mock data"
   },
   "ResponseTime": 0,
   "AllowPostDataKey":["id","name"]
