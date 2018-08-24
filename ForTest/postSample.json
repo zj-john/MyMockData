@@ -7,6 +7,5 @@
     "message": "",
     "data": "This is a post mock data"
   },
-  "ResponseTime": 0,
-  "AllowPostDataKey":["id","name"]
+  "ResponseTime": 0
 }

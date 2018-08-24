@@ -22,6 +22,8 @@ https://zj-john.github.io/MyMockData/ForTest/getSample.json
 
 4. 此时，你的mock data就已经配置完成。可以在需要的项目中按照[MockDataResolveSample](https://github.com/zj-john/MockDataResolveSample)的方式使用了。
 
+Demo[地址](https://zj-john.github.io/GitHubMockServerSample/demo/public/index.html)
+
 ## Mock格式
 ```json
 {
@@ -33,8 +35,7 @@ https://zj-john.github.io/MyMockData/ForTest/getSample.json
     "message": "",
     "data": "this is a get mock data"
   },
-  "ResponseTime": 0,
-  "AllowPostDataKey":["id","name"]
+  "ResponseTime": 0
 }
 ```
 
@@ -54,6 +55,3 @@ Object, 返回的response内容
 
 * ResponseTime:   
 Int , 返回的延迟时间，单位是ms
-
-* AllowPostDataKey:   
-Array，post请求中允许的post data中的key，例如["id","name"]
